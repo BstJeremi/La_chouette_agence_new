@@ -774,7 +774,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C !important;
+    filter: contrast(1);
+}
+
+.tc-white-1 {
+    color: #ffffff!important;
     filter: contrast(1);
 }
 
